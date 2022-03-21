@@ -2,6 +2,7 @@
 
 > This is Sign-in page with Tailwind CSS.
 
+<img src="./src/assets/sample1.png" alt="vue signin">
 
 ```sh
 <template>
